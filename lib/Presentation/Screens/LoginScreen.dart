@@ -31,7 +31,7 @@ class LoginScreen extends StatelessWidget {
                     Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(
-                        builder: (_) => const HomeScreen(owner: "flutter", repo: "flutter"),
+                        builder: (_) => const HomeScreen(),
                       ),
                     );
                   }
