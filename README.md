@@ -1,4 +1,4 @@
-markdown# GitHub Pull Requests App 🚀
+## GitHub Pull Requests App 🚀
 
 ### video link
 `https://www.loom.com/share/bdb0c68a220f4557a0a7d8e9563bd2d1?sid=5657c6a5-c4d4-4b1c-ae85-daeed6a4979a`
