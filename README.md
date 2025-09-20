@@ -1,4 +1,4 @@
-markdown# GitHub Pull Requests App 🚀
+## GitHub Pull Requests App 🚀
 
 A Flutter application that displays open pull requests from GitHub repositories using the GitHub REST API. Built with BLoC pattern for state management and featuring a clean, responsive UI.
 
